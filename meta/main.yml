@@ -2,8 +2,8 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: Nginx installation for Linux, FreeBSD and OpenBSD.
+  author: bpresles
+  description: Nginx installation for Linux, FreeBSD and OpenBSD running on Docker container.
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.8
